@@ -1,0 +1,399 @@
+<html><head><title>Page not found</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="EN">
+
+<meta name="objecttype" content="Document">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="Subject" content="Movie scripts, Film scripts">
+<meta name="rating" content="General">
+<meta name="distribution" content="Global">
+<meta name="revisit-after" content="2 days">
+
+<link href="/style.css" rel="stylesheet" type="text/css">
+
+<script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3785444-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><link rel="preload" href="https://adservice.google.co.uk/adsid/integrator.js?domain=www.imsdb.com" as="script"><script type="text/javascript" src="https://adservice.google.co.uk/adsid/integrator.js?domain=www.imsdb.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.imsdb.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.imsdb.com"></script>
+
+
+</head>
+
+<body topmargin="0" bottommargin="0" id="mainbody"><iframe name="iframe_522908768132" width="0" height="0" id="bst2t_778023217367" src="https://cdn3.doubleverify.com/bst2tv3.html" style="display: none;"></iframe>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tbody><tr> 
+    <td valign="bottom" bgcolor="#FF0000"><a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_top.gif" border="0"></a></td>
+    <td bgcolor="#FF0000" align="center" style="color: white;"><h1>The Internet Movie Script Database (IMSDb)</h1></td>
+ </tr>
+  <tr> 
+    <td background="/images/reel.gif" height="13" colspan="2"><a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_middle.gif" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td width="170" valign="top" class="smalltxt"> <a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_bottom.gif" width="170" border="0"></a> 
+      <br>
+	<center><span class="smalltxt">The web's largest <br>movie script resource!</span></center>
+	</td>
+    <td>	
+    <script type="text/javascript"><!--
+	 e9 = new Object();
+     e9.size = "728x90";
+     //--></script>
+    <script type="text/javascript" src="//tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></script><script type="text/javascript" src="https://s.tribalfusion.com/displayAd.js?dver=0.8&amp;th=8124094969"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=imsdb&amp;adSpace=ros&amp;center=1&amp;size=728x90&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBatman-Begins.html&amp;f=0&amp;p=17816054&amp;tKey=aXmneM2Haq4AFKnb3Zc0VQQUUYjPUywFE&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=17815588"></script><div id="tfac_728901520013310" style="position:relative;z-index:1005000"><script type="text/javascript" src="https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js"></script></div>
+<script language="javascript" defer="defer">
+  (function() {
+    var 	tf_adchoice_width;
+    var 	tf_adchoice_height;
+
+    if (typeof(e9AdChoice) === "undefined")
+     {
+       tf_adchoice_width = 728;
+       tf_adchoice_height = 90;
+     }
+    else
+     {
+       tf_adchoice_width = e9AdChoice.width;
+       tf_adchoice_height = e9AdChoice.height; 
+       e9AdChoice = undefined;
+     }
+
+    var adChoiceObj = {
+        adWidth			: tf_adchoice_width,
+        adHeight		: tf_adchoice_height,
+        adChoiceIconPos 	: "UR".toLowerCase(),
+        adChoiceIconDir 	: "https://cdnx.tribalfusion.com/media/common//adChoice/icon/",
+        adChoiceOptOutPage 	: "https://s.tribalfusion.com/j.u?rnd=1520013310&redirect=http://exponential.com/ad-choices-fromad/",
+        adChoiceDivId		: "tfac_728901520013310",
+        adChoiceIconVisibility	: "true",
+        rnd                     : "1520013310"
+    };
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js";
+
+    if (script.readyState) //IE 
+     { 
+       script.onreadystatechange = function() {
+         if (    script.readyState == "loaded" 
+	      || script.readyState == "complete")
+	  {
+            script.onreadystatechange = null;
+   	    window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+          }
+       };
+     } 
+    else 
+     { 
+       script.onload = function() {
+   	  window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+       };
+     }
+
+    document.getElementById(adChoiceObj.adChoiceDivId).appendChild(script);
+  })();
+</script>
+<ins class="dcmads" style="display: inline-block; width: 728px; height: 90px; text-decoration: none;" data-dcm-placement="N3643.2106305EXPONENTIAL/B11165600.240729595" data-dcm-click-tracker="https://s.tribalfusion.com/h.click/acmWKZdUcr8RAUOTtQPUUfP5UaqVEQxWEJdQarZcScQZbRFarRW7aWG3S4FqvmtqpYauu2trZdPGZbE4AQZdmdAoTtZb6XrvcYFF90qeoPbrZbTU3SVdJXmr7tQbMn1EQo4afj4EjRnqJFXbYbWHjVn67BmsjnmtMJ3qZbe5HEs3mZbZbprMZdYGYPYsZbUXVvMnqr45FY2VrnFUAv3REf4PsFrPt7r1dbuWPnv3sMYXFrJV6Tn2PZbeR6MCyomaNDTZdSsvZbpsTG3VnZdTUUVhdf8wX/" data-dcm-rendering-mode="iframe" data-dcm-https-only="" data-dcm-resettable-device-id="" data-dcm-app-id="" data-dcm-processed="y">
+  <script src="https://www.googletagservices.com/dcm/dcmads.js"></script><script src="https://www.googletagservices.com/dcm/impl_v55.js"></script><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ad.doubleclick.net/ddm/adi/N3643.2106305EXPONENTIAL/B11165600.240729595;dc_ver=55.153;sz=728x90;osdl=1;u_sd=1;dc_adk=2022739484;ord=0n914h;click=https%3A%2F%2Fs.tribalfusion.com%2Fh.click%2FacmWKZdUcr8RAUOTtQPUUfP5UaqVEQxWEJdQarZcScQZbRFarRW7aWG3S4FqvmtqpYauu2trZdPGZbE4AQZdmdAoTtZb6XrvcYFF90qeoPbrZbTU3SVdJXmr7tQbMn1EQo4afj4EjRnqJFXbYbWHjVn67BmsjnmtMJ3qZbe5HEs3mZbZbprMZdYGYPYsZbUXVvMnqr45FY2VrnFUAv3REf4PsFrPt7r1dbuWPnv3sMYXFrJV6Tn2PZbeR6MCyomaNDTZdSsvZbpsTG3VnZdTUUVhdf8wX%2F;dc_rfl=0,https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBatman-Begins.html$0;xdt=0;crlt=WLdo9G5bRw;sttr=19;prcl=s?" style="width: 100%; height: 100%; border: 0px; margin: 0px; padding: 0px;"></iframe>
+</ins><iframe src="https://s.tribalfusion.com/p.media?clickID=admTo6XGnnnEb23rr4TrbZcV6UVPTQ3PsZbrQH7N1HvtTPvO2cBYYbrZcTAyo2PYgRmbA2WZbsXHJKntZao5mvP5Gn6TcYdUsM6S6FMWdnSWrbP2UAoVaYxWaJaST3FSVfZdRbusPtMlWsbT2FqunHayYTqp2tvDPGjG26FFmdAyTHQ70brkXrYk1qImSrBAWUYXTtr4mb7qQUjmYTZbo5aUa2a7RmbYDUGJROWtWFC&amp;mediaDataID=6546596&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aemTo6XayMRrUZdUFU1Vt3WnUbtQrjoXTFq5a7l4T73oa7EYbUbTtFUmmvJpGrumWnD3EZbe5duq5PfGnb3ZbXsrPYcU50cvpmavQ5UnRTFfZcVmM4PaY3PVZbsStJr1tBrTmby4G3VXrZbIVmuv5m3hQA7K2HQp1WYKptPm36YY5cj6VcUjVGMlSAUvWtUPWrb15b6nWa3sWTQ7QEJLScQCRruvRsFd1bvaxZdl2ke&amp;mediaDataID=6530936&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=agmTo6pTn43F3UWbjCVPrTQaj4SsQtPdUM1HZbpVPby4G3YXFZbZdUATt4637R6fI4HUr0WBJptTu5mQY5cU9TVUdWcjhSAFmTWFRWrJ45bEuVEnrVTM6PaBZcQVZbCPrAqPW79Ucv24b6mod6yYTum3HvZdQVfA5mQZbmtTNVWJhXrfa1UF91EqmPUUBTbr4TtQ2orjoPFFnXE3o5E3g4T7RoTMIYEn8Yq79oI0ou1&amp;mediaDataID=6807466&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=ahmTo6PbBZbUF34TdU5mUFxQrJyXTUp4EUi4TUYmaMH1FJbUWMTnmQZansnpmHML5TUh3tmt3PnZanbrEXVQSYVY20Gfupav22bFSTFFAUAvTPEj3QGrqPHUNYtbuV63N4cB00bQATPin2PYhQAjJ3tQO0H3ZamdEu3mZb13srgTsJdUc78SmFOUdvQUbj35bEpUqQmVEv6PTYLSGYZaPFuvPH7iWdBTRsyAwiomcn&amp;mediaDataID=6347136&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aimTo6WdZb3UbfR3bewUEvvWTvjPqvZdRGQKPFZaoRt79UcvS4U6tnWZaoXEuw4dnZbSVjG4mJZcmtPsTHBhXrQdYbFf0aarRFJZdTbB2TtMYorJxQb7s1qrm4aUl2aMRmTFF1bUcWt71m6fKpGrvpdvK2aQ73dio4A7ZapbfG0Gn0YsF2XGbnmqvR2rnRWrvDUAv5REYXQsMoPtZbx1dnsVPbp4sBUXafIXDmBwFFUZbn&amp;mediaDataID=7665496&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=ajmTo65UZb2VUbZaWAQ4QanQSVUmPHZbw0dvmVPQu2GB00bQZdT6is56rbPPjC4WYMXHYKnd2x3mJS5cMgTsnaWV7eRPUwUdF5TFM55besUqrvWaYaPaMZaRcQJRravRHY7UGbP2ryumHqq0qym3HrZaPcfZa46ULpdAsVH3f0bnkYFYfXaeMSFJZcUbQQWdM0orJmRUJtYTrp4TZbg4qf2maMI1rUfUsYSyprwttg2W8&amp;mediaDataID=8039566&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=akmTo6WUJSVdY0mbjvPr7N1TQp4TFe5q70maJDYFUcWt7TmPfZbmsYtotvA5EY95deq5AvZdpbjZcXVv0YsM50sbxnTfV2bF4WrnBUAU0REMQPVnNQWBs0HvpT6vp2svX0FZbZaVAmv4mZb9R6fJ3t3y1t3AntAN46YS3c7eVcQjWsMePPYoTHF5UbBS5UIrUqroTTrcQEnKRVJZaPbmtRt7iUVb54qEmyTeENaoGoZd&amp;mediaDataID=9148826&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=almTo6WrrP3rZamVaYtTa3lPErZdSVFZaQbunRtUdWcbP2rytmtqpYEPN2WrGSG7Zc26QZbodXrVHY7XrvkYF7g0TetRbYFTFBQWHJXorbrRUjNYErr4qZbk5T7YoT7IYrjaWWMWomrCnc7nmHMK2a382WiN5PbKmrMZc0VbX1c3V0VvxpTb42rFRWr7DVmrYREM0ScnqQdbw0t7sVmjM2GBU0UZbDTBInR9QSwGYRRt&amp;mediaDataID=5436426&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aAmTo6TFvZcWPM2PTfRPGYMPHFy0tnqWmbx2Gr4XbZbZaVAms4AZbaQPFH2d3sXWUCptEu56BP3cb6TsYjWsFhR6YuUdUUTUMR2U2tUqYtTTQlQTULQGJZdQFuoPHMiWV3R2U6qoWeyXTeu4dnZaPcbZd5PUHotEmUWJ70rbi1UB90qqtPbUZbTrB2VHn0mrYsRUjr1Evr5Ebh5av2mErGYFUfWHMXmnZbKMrMBwwS9Fv&amp;mediaDataID=4056396&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+
+
+    </td>
+  </tr>
+</tbody></table>
+
+
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+   
+    <td width="180" valign="top">
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr> 
+   <td colspan="2" class="heading">Search IMSDb</td>
+  </tr>
+  <tr>
+  <form method="post" action="/search.php"></form>
+    <td width="180" bgcolor="#FFFFFF"><div align="center">
+     <input type="text" name="search_query" maxlength="255" size="15">
+     <input type="submit" value="Go!" name="submit">
+    </div></td>
+  
+  </tr>
+</tbody></table>
+
+<br>
+<table width="100%" class="body">
+<tbody><tr>
+<td colspan="9" class="heading">Alphabetical</td>
+</tr><tr align="center">
+        <td><a href="/alphabetical/0">#</a></td>
+        <td><a href="/alphabetical/A">A</a></td>
+        <td><a href="/alphabetical/B">B</a></td>
+        <td><a href="/alphabetical/C">C</a></td>
+        <td><a href="/alphabetical/D">D</a></td>
+        <td><a href="/alphabetical/E">E</a></td>
+        <td><a href="/alphabetical/F">F</a></td>
+        <td><a href="/alphabetical/G">G</a></td>
+        <td><a href="/alphabetical/H">H</a></td>
+</tr>
+<tr align="center"> 
+        <td><a href="/alphabetical/I">I</a></td>
+        <td><a href="/alphabetical/J">J</a></td>
+        <td><a href="/alphabetical/K">K</a></td>
+        <td><a href="/alphabetical/L">L</a></td>
+        <td><a href="/alphabetical/M">M</a></td>
+        <td><a href="/alphabetical/N">N</a></td>
+        <td><a href="/alphabetical/O">O</a></td>
+        <td><a href="/alphabetical/P">P</a></td>
+        <td><a href="/alphabetical/Q">Q</a></td>
+</tr>
+<tr align="center"> 
+        <td><a href="/alphabetical/R">R</a></td>
+        <td><a href="/alphabetical/S">S</a></td>
+        <td><a href="/alphabetical/T">T</a></td>
+        <td><a href="/alphabetical/U">U</a></td>
+        <td><a href="/alphabetical/V">V</a></td>
+        <td><a href="/alphabetical/W">W</a></td>
+        <td><a href="/alphabetical/X">X</a></td>
+        <td><a href="/alphabetical/Y">Y</a></td>
+        <td><a href="/alphabetical/Z">Z</a></td>
+</tr>
+</tbody></table>
+<br>
+
+<table width="100%" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">Genre
+</td></tr><tr> 
+	<td><a href="/genre/Action">Action</a>
+	</td><td><a href="/genre/Adventure">Adventure</a> 
+	</td><td><a href="/genre/Animation">Animation</a></td></tr><tr>
+	<td><a href="/genre/Comedy">Comedy</a> 
+	</td><td><a href="/genre/Crime">Crime</a> 
+	</td><td><a href="/genre/Drama">Drama</a> </td></tr><tr>
+	<td><a href="/genre/Family">Family</a> 
+	</td><td><a href="/genre/Fantasy">Fantasy</a> 
+	</td><td><a href="/genre/Film-Noir">Film-Noir</a></td></tr><tr>
+	<td><a href="/genre/Horror">Horror</a> 
+	</td><td><a href="/genre/Musical">Musical</a> 
+	</td><td><a href="/genre/Mystery">Mystery</a></td></tr><tr>
+	<td><a href="/genre/Romance">Romance</a> 
+	</td><td><a href="/genre/Sci-Fi">Sci-Fi</a> 
+	</td><td><a href="/genre/Short">Short</a></td></tr><tr>
+	<td><a href="/genre/Thriller">Thriller</a> 
+	</td><td><a href="/genre/War">War</a> 
+	</td><td><a href="/genre/Western">Western</a>
+</td></tr></tbody></table>
+
+<br>
+<table class="body" border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr> 
+ <td colspan="2" class="heading">Sponsor</td></tr><tr> 
+ <td width="300" bgcolor="#FFFFFF">
+ <script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250";
+ //--></script>
+ <script type="text/javascript" src="//tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></script><div align="center" id="richmedia_4"><img width="0" height="0" src="https://tps20514.doubleverify.com/bsevent.gif?impid=0e1abd05d986414895dfbe35cfe089c8&amp;vfdur=96&amp;cbust=1584737887579787" style="display: none;"><img width="0" height="0" src="https://tps20514.doubleverify.com/bsevent.gif?impid=0e1abd05d986414895dfbe35cfe089c8&amp;dvp_or2=1&amp;cbust=1584737887577180" style="display: none;"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=imsdb&amp;adSpace=ros&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBatman-Begins.html&amp;f=0&amp;p=17816054&amp;tKey=aXmneM2Haq4AFKnb3Zc0VQQUUYjPUywFE&amp;a=3&amp;adContainerId=richmedia_4&amp;rnd=17814955"></script><div id="tfac_3002501520014916" style="position:relative;z-index:1005000"><script type="text/javascript" src="https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js"></script></div>
+<script language="javascript" defer="defer">
+  (function() {
+    var 	tf_adchoice_width;
+    var 	tf_adchoice_height;
+
+    if (typeof(e9AdChoice) === "undefined")
+     {
+       tf_adchoice_width = 300;
+       tf_adchoice_height = 250;
+     }
+    else
+     {
+       tf_adchoice_width = e9AdChoice.width;
+       tf_adchoice_height = e9AdChoice.height; 
+       e9AdChoice = undefined;
+     }
+
+    var adChoiceObj = {
+        adWidth			: tf_adchoice_width,
+        adHeight		: tf_adchoice_height,
+        adChoiceIconPos 	: "UR".toLowerCase(),
+        adChoiceIconDir 	: "https://cdnx.tribalfusion.com/media/common//adChoice/icon/",
+        adChoiceOptOutPage 	: "https://s.tribalfusion.com/j.u?rnd=1520014916&redirect=http://exponential.com/ad-choices-fromad/",
+        adChoiceDivId		: "tfac_3002501520014916",
+        adChoiceIconVisibility	: "true",
+        rnd                     : "1520014916"
+    };
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js";
+
+    if (script.readyState) //IE 
+     { 
+       script.onreadystatechange = function() {
+         if (    script.readyState == "loaded" 
+	      || script.readyState == "complete")
+	  {
+            script.onreadystatechange = null;
+   	    window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+          }
+       };
+     } 
+    else 
+     { 
+       script.onload = function() {
+   	  window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+       };
+     }
+
+    document.getElementById(adChoiceObj.adChoiceDivId).appendChild(script);
+  })();
+</script>
+<script type="text/adtag">
+<ins class='dcmads' style='display:inline-block;width:300px;height:250px'
+    data-dcm-placement='N1034274.2106305EXPONENTIAL/B23342467.257983654'
+    data-dcm-rendering-mode='iframe'   
+  data-dcm-click-tracker='https://s.tribalfusion.com/h.click/aKmXpm1EZby5EFf5qj1mafI1bZbbTHnUnPfJnsUnotfG5qQj3dms5PBKnrnGXVfTXcQ2XVfnmEJW3FZbTTFfAW6M5PTYSQsvMSdfr0HvoVPvp2cB0YbMLUAar2PYcPAFG3tBO1trJmWPN36QW4VbgUVFcUVf8R6FxWWnUWFJ15bEpVq3pVEBiSEBZbScZbCPUAoPHMiWcbU4b6vmWEnYq2N4dMESGJF46vIpdAoTHYbXUfk1UY9067RwPPEq7JsxAPZcYFUmWrfFFeIAqG/'
+    data-dcm-https-only
+    data-dcm-resettable-device-id=''
+    data-dcm-app-id=''>
+  <script src='https://www.googletagservices.com/dcm/dcmads.js'></scr+ipt>
+</ins>
+</script>
+<iframe name="iframe_426464699145" width="0" height="0" id="iframe_426464699145" src="about:blank" data-dv-frm="426464699145" style="display: none;"></iframe><script language="javascript" type="text/javascript" src="https://cdn.doubleverify.com/dvbs_src.js?ctx=2826712&amp;cmp=23342467&amp;plc=257983654&amp;sid=5130266&amp;dvregion=2&amp;unit=300x250">
+</script><script type="text/javascript" src="https://cdn.doubleverify.com/dvbs_src_internal75.js"></script><script type="text/javascript" src="https://rtb2.doubleverify.com/verify.js?jsCallback=__verify_callback_778023217367&amp;jsTagObjCallback=__tagObject_callback_778023217367&amp;num=6&amp;ctx=2826712&amp;cmp=23342467&amp;plc=257983654&amp;sid=5130266&amp;advid=&amp;adsrv=&amp;unit=300x250&amp;isdvvid=&amp;uid=778023217367&amp;tagtype=&amp;adID=&amp;app=&amp;sup=&amp;isovv=0&amp;gmnpo=&amp;crt=&amp;dup=null&amp;brid=0&amp;brver=&amp;bridua=3&amp;chro=0&amp;hist=2&amp;winh=600&amp;winw=800&amp;wouh=600&amp;wouw=800&amp;scah=600&amp;scaw=800&amp;srcurlD=0&amp;ssl=1&amp;refD=0&amp;htmlmsging=1&amp;aUrlD=&amp;m1=15&amp;noc=4&amp;fcifrms=12&amp;brh=2&amp;fwc=0&amp;fcl=202&amp;flt=0&amp;fec=208&amp;vavbkt=&amp;lvvn=28&amp;dvp_idcerr=undefined&amp;ver=124&amp;eparams=DC4FC%3Dl9EEADTbpTauTauHHH%5D%3A%3ED53%5D4%40%3ETauD4C%3AAEDTauq2E%3E2%3F%5Cq68%3A%3FD%5D9E%3E%3DU2%26C%3Dl"></script><script type="text/javascript">e9 = new Object();e9.size = '300x250';</script><script type="text/javascript" src="https://tags.expo9.exponential.com/tags/ContentVerification/AdVerificationBackup_DV/tags.js"></script><div align="center" id="richmedia_6"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=contentverification&amp;adSpace=adverificationbackup_dv&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBatman-Begins.html&amp;f=0&amp;p=17816054&amp;tKey=aXmneM2Haq4AFKnb3Zc0VQQUUYjPUywFE&amp;a=5&amp;adContainerId=richmedia_6&amp;rnd=17811605"></script><center>
+<a href="https://s.tribalfusion.com/h.click/aDmUwfUAfTPTM2PGQmQWBr0dFsWAfx3cB5XbvATmmw5mv7Q6nA4WMt1HnZanHTo4mYT4GM8VcndVGBgRPFuTtQVUFbS2UaoUqYqVqviQEBZdQVJCPbunSdQlUcQP2FyxmWqtYa2n4dYZaQsvF2mUHoHTnTW3cXUfaYbfl0qiOPUBZbUU3XTt3YmFQnRUfNXaFo5q7d5T35oTbD1rf6UWZbWnAnZdnVfqotfJ5EZb73GTrSpbM2prDZa8/http://www.cidi.org/NepalRelief?utm_medium=banner&amp;utm_source=exponential&amp;utm_campaign=adcouncil&amp;utm_content=nepal" target="_blank">
+<img src="https://cdnx.tribalfusion.com/media/5268446/adc_ndr_nepal_300x250.gif" width="300" height="250" border="0"></a>
+</center>
+
+</div>
+
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aLmTo6STJFSGJLQUmqPWriWVvP5bPuntqtXE2u2WbASsfA46JLpW6nTdB80bMi1FBf0aqqPrBHUFQSVdn4mFZbnQbMq1qFN4aUh2aU2oTbIYUF6UdbQnmfKpGMwoHQE5TZbk5HiM56vZbprnHYcvYXGYV0VbMmT7T5FJ4TFfZcWP75REvQPGZbqPtZbM0tfrT6Mu4sM2XFMZaUmqq4AFcPPMK4WZbO0cbLMTAJvP33YN&amp;mediaDataID=2713736&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=ammTo62afRmEbCYFYcUdfXn6bInG3npWfB3qvg3Hmn3mbKnbbIYsQWYVU4XGjppE7T3UFUTUvEWPnTPT3XQVQtPH3y1HvwWPby4sr10UUDUAmr26n7QPMB4WQO0WvZbpt2M3P305Vj7Vc3kVGj7SmYoUtYQTrb05rPwUqrvVEJbST3FRsQZdQUqoRWQ7UVMT2F2omtEmYqmM2tjBQsrZa2mJHoVytXaZbPMH8RKZc&amp;mediaDataID=6680176&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=anmTo6RrmvRWvcVsnR5rqxnHuoXTTy3tbHQsBH4AJImWEmTHQdYUQ9YbJhXa6OPrQHUUB0TdB3mbBxPFZbtYqYs4a3j4q7PnaMH1r7dWHbXnmrZdmVYpptfC5EQ73tIp3PvJpFvHXcfQ1cQU1cfomqb43FYPWFfEUPjVREMQQsZbtStJr0WvrW6Mn3sMX0UUIVmPp4AMdQ6bE2HFn0dBApd2o5QbRSFnQMZaKOIy&amp;mediaDataID=6719746&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aomTo6T6jp2cQ3YUBZbT6uw26FbQPJC3HZbt0drLnW2M3P3U5cjcUVn6WVjhPPQmWt3WUrMY5rToWaMvVEncQa3ZdRcYLPruxSt79UVQQ2FuxnWItYT2u3WbESGfZa4mnKmtXpVdZbeXFfb1UZb61EaNSFUZbUF35WtQ3ob3vRUjNYTFs3TJa5E7QoaFLYUbaWHbSoAUInVQrpHnH3TFl3HmN3AvGnEBZdTrr7OMa2AG&amp;mediaDataID=8858276&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+
+ </td>
+</tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">TV Transcripts
+</td></tr><tr> 
+	<td><a href="/TV/Futurama.html">Futurama</a></td></tr><tr>
+	<td><a href="/TV/Seinfeld.html">Seinfeld</a></td></tr><tr>
+	<td><a href="/TV/South Park.html">South Park</a></td></tr><tr>
+	<td><a href="/TV/Stargate SG1.html">Stargate SG-1</a></td></tr><tr>
+	<td><a href="/TV/Lost.html">Lost</a></td></tr><tr>
+	<td><a href="/TV/The 4400.html">The 4400</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">International
+</td></tr><tr> 
+	<td><a href="/language/French">French scripts</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">Movie Software
+</td></tr><tr>
+    <td><a href="/out/dvd-ripper"><img src="/images/a/dvd-ripper.jpg" alt="DVD ripper software offer"></a>
+</td></tr><tr>
+	<td><a href="/software/rip-from-dvd">Rip from DVD</a>
+</td></tr><tr>
+	<td><a href="/software/rip-blu-ray">Rip Blu-Ray</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">Latest Comments
+</td></tr><tr>
+<td><a href="/Movie Scripts/Star Wars: Revenge of the Sith Script.html">Star Wars: Revenge of the Sith</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Star Wars: The Force Awakens Script.html">Star Wars: The Force Awakens</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Batman Begins Script.html">Batman Begins</a></td><td>9/10</td></tr><tr>
+<td><a href="/Movie Scripts/Collateral Script.html">Collateral</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Jackie Brown Script.html">Jackie Brown</a></td><td>8/10</td></tr><tr>
+</tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">Movie Chat
+</td></tr><tr> 
+<td align="center">
+<script async="" language="Javascript" type="text/javascript" src="https://www.yellbox.com/ybscript_enhanced.js"></script>
+<iframe class="yellbox" frameborder="0" name="ybframe" height="170" marginwidth="0" marginheight="0" src="https://www.yellbox.com/yellbox.php?name=imsdb">
+</iframe>
+<form class="yellbox" action="https://www.yellbox.com/addmessage.php" method="post" target="ybframe" name="yellform"> 
+ <input type="hidden" name="sub_username" value="imsdb">
+ <input class="yellbox" name="sub_name" value="Name" size="21" maxlength="10" onfocus="if(this.value == 'Name')this.value = ''; return;"><br>
+ <textarea class="yellbox" cols="15" rows="4" name="sub_message" wrap="" onfocus="if(this.value == 'Message')this.value = ''; return;">Message</textarea>
+ <table><tbody><tr><td>
+ <button onclick="javascript:makeNewWindow(); return false;"><img src="https://www.yellbox.com/images/smiley.gif" width="16" height="16"></button>
+ </td><td><button type="submit" value="Post" onclick="return clearMessageBox();">Yell !</button></td></tr></tbody></table>
+</form> 
+</td></tr></tbody></table>
+
+
+<div align="center"><br><br>
+      <a href="https://www.imsdb.com/all%20scripts">ALL SCRIPTS</a><br><br>
+</div>
+
+
+</td><td width="10"></td>
+<td valign="top">
+<br><h1>Oops! Script not found</h1>
+<p>Apologies, it looks like that script has been removed.</p>
+
+<p><a href="http://www.imsdb.com">Back to the homepage</a></p>
+
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = 'http://www.imsdb.com'
+</script>
+<script type="text/javascript" src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
+
+<br><br>
+</td></tr></tbody></table><iframe id="google_osd_static_frame_8756094387679" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tbody><tr> 
+  <td background="/images/reel.gif" height="13" colspan="2">
+</td></tr></tbody></table>
+
+<div align="center">
+ <a href="https://www.imsdb.com" title="Internet Movie Script Database (IMSDb)">Index</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/submit" title="Submit scripts">Submit</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/links" title="Other sites">Links</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/link to us" title="Link to IMSDb">Link to us</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/feeds" title="IMSDb RSS Feeds">RSS Feeds</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/disclaimer">Disclaimer</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/privacy">Privacy policy</a> 
+</div>
+
+<br>
+
+
+</body></html>

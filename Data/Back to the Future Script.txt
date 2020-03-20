@@ -1,0 +1,424 @@
+<html><head><title>Back to the Future Script at IMSDb.</title>
+<meta name="description" content="Back to the Future script at the Internet Movie Script Database.">
+<meta name="keywords" content="Back to the Future script, Back to the Future movie script, Back to the Future film script">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="EN">
+
+<meta name="objecttype" content="Document">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="Subject" content="Movie scripts, Film scripts">
+<meta name="rating" content="General">
+<meta name="distribution" content="Global">
+<meta name="revisit-after" content="2 days">
+
+<link href="/style.css" rel="stylesheet" type="text/css">
+
+<script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3785444-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+</head>
+
+<body topmargin="0" bottommargin="0" id="mainbody"><iframe name="iframe_539924862566" width="0" height="0" id="bst2t_741597424984" src="https://cdn3.doubleverify.com/bst2tv3.html" style="display: none;"></iframe>
+
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tbody><tr> 
+    <td valign="bottom" bgcolor="#FF0000"><a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_top.gif" border="0"></a></td>
+    <td bgcolor="#FF0000">
+	<center>
+	    <font color="#FFFFFF"><h1>The Internet Movie Script Database (IMSDb)</h1></font>
+</center>
+  </td></tr><tr> 
+    <td background="/images/reel.gif" height="13" colspan="2"><a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_middle.gif" border="0"></a></td>
+  </tr><tr> 
+    <td width="170" valign="top" class="smalltxt"> <a href="https://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_bottom.gif" width="170" border="0"></a> 
+      <br>
+	<center><span class="smalltxt">The web's largest <br>movie script resource!</span></center>
+	</td>
+    <td>	
+    <script type="text/javascript"><!--
+	 e9 = new Object();
+     e9.size = "728x90";
+     //--></script>
+    <script type="text/javascript" src="//tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></script><script type="text/javascript" src="https://s.tribalfusion.com/displayAd.js?dver=0.8&amp;th=8124094969"></script><div align="center" id="richmedia_2"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=imsdb&amp;adSpace=ros&amp;center=1&amp;size=728x90&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBack-to-the-Future.html&amp;f=0&amp;p=17733452&amp;tKey=aEmneMnFFnQUJoYqQp3EJjRWMfP4yaIC&amp;a=1&amp;adContainerId=richmedia_2&amp;rnd=17733820"></script><div id="tfac_728901519596448" style="z-index: 1005000; position: relative; width: 728px;"><script type="text/javascript" src="https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js"></script><div style="text-align: left; height: 15px; left: 709px; overflow: hidden; position: absolute; top: 0px; width: 19px; z-index: 1005000;"><img style="margin:0;position:absolute;left:0px; display:block;" width="19px" height="15px" border="0" src="https://cdnx.tribalfusion.com/media/common//adChoice/icon/ad_choices_i_UR.png" onmouseover="tf_e9AdChoice.expand(this,728,709);"><a href="https://s.tribalfusion.com/j.u?rnd=1519596448&amp;redirect=http://exponential.com/ad-choices-fromad/" target="_blank"><img style="margin:0;position:absolute;display:none;" width="77px" height="15px" border="0" src="https://cdnx.tribalfusion.com/media/common//adChoice/icon/ad_choices_UR.png" onmouseout="tf_e9AdChoice.collapsed(this,728,709);"></a></div></div>
+<script language="javascript" defer="defer">
+  (function() {
+    var 	tf_adchoice_width;
+    var 	tf_adchoice_height;
+
+    if (typeof(e9AdChoice) === "undefined")
+     {
+       tf_adchoice_width = 728;
+       tf_adchoice_height = 90;
+     }
+    else
+     {
+       tf_adchoice_width = e9AdChoice.width;
+       tf_adchoice_height = e9AdChoice.height; 
+       e9AdChoice = undefined;
+     }
+
+    var adChoiceObj = {
+        adWidth			: tf_adchoice_width,
+        adHeight		: tf_adchoice_height,
+        adChoiceIconPos 	: "UR".toLowerCase(),
+        adChoiceIconDir 	: "https://cdnx.tribalfusion.com/media/common//adChoice/icon/",
+        adChoiceOptOutPage 	: "https://s.tribalfusion.com/j.u?rnd=1519596448&redirect=http://exponential.com/ad-choices-fromad/",
+        adChoiceDivId		: "tfac_728901519596448",
+        adChoiceIconVisibility	: "true",
+        rnd                     : "1519596448"
+    };
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js";
+
+    if (script.readyState) //IE 
+     { 
+       script.onreadystatechange = function() {
+         if (    script.readyState == "loaded" 
+	      || script.readyState == "complete")
+	  {
+            script.onreadystatechange = null;
+   	    window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+          }
+       };
+     } 
+    else 
+     { 
+       script.onload = function() {
+   	  window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+       };
+     }
+
+    document.getElementById(adChoiceObj.adChoiceDivId).appendChild(script);
+  })();
+</script>
+<ins class="dcmads" style="display: inline-block; width: 728px; height: 90px; text-decoration: none;" data-dcm-placement="N3643.2106305EXPONENTIAL/B11165600.240729595" data-dcm-click-tracker="https://s.tribalfusion.com/h.click/aEmWKZdorYxPFbpXTQn5qBa2TY4naBKXbU7UtJSmmfZcpsMsoWfB3Trj3tay5PvKmbrZdXVv0XcM40s7vpT7P3FZbRTUFBVmjTPTv4ScnMPtJr1dvtV6UO3GJ00UYZbUAPp4mBeQAJH3HBpXWQZcmHTo4PZbR3GvgTVJaUVJgP6nvWd3VTrZb03rTxUajrVqFlSE3FScQJRr6mPHj9VGjW5FTxmteOYEyv3dYDQs7D26UZcmdXyVWQ9uATrMBZaiurQCNp2RWr3sVEUi6GvtjB/" data-dcm-rendering-mode="iframe" data-dcm-https-only="" data-dcm-resettable-device-id="" data-dcm-app-id="" data-dcm-processed="y">
+  <script src="https://www.googletagservices.com/dcm/dcmads.js"></script><script src="https://www.googletagservices.com/dcm/impl_v55.js"></script><iframe marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://ad.doubleclick.net/ddm/adi/N3643.2106305EXPONENTIAL/B11165600.240729595;dc_ver=55.153;dc_eid=40004000;sz=728x90;osdl=1;u_sd=1;dc_adk=2022739484;ord=089b1m;click=https%3A%2F%2Fs.tribalfusion.com%2Fh.click%2FaEmWKZdorYxPFbpXTQn5qBa2TY4naBKXbU7UtJSmmfZcpsMsoWfB3Trj3tay5PvKmbrZdXVv0XcM40s7vpT7P3FZbRTUFBVmjTPTv4ScnMPtJr1dvtV6UO3GJ00UYZbUAPp4mBeQAJH3HBpXWQZcmHTo4PZbR3GvgTVJaUVJgP6nvWd3VTrZb03rTxUajrVqFlSE3FScQJRr6mPHj9VGjW5FTxmteOYEyv3dYDQs7D26UZcmdXyVWQ9uATrMBZaiurQCNp2RWr3sVEUi6GvtjB%2F;dc_rfl=0,https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBack-to-the-Future.html$0;xdt=0;crlt=kwLiMZn9wK;sttr=22;prcl=s?" style="width: 100%; height: 100%; border: 0px; margin: 0px; padding: 0px;"></iframe>
+</ins><iframe src="https://s.tribalfusion.com/p.media?clickID=aFmTo6UqbvVEUjQqnHQcFCQUZaxRWU6VGbW4rTmmWqm0EqO2tbDPsZbB4AYZdmdZaNVHJ7Xbfd1FQf0qaMRrnHWFvQWWrXobQvQbrn1Eno3TZba5TMXnEJKXFU8WH7XmAQZapV7rmtrK3aZbg5taM46fFmUvEXVrVXc32XVrppT743FFVTFjZcV67YQTY2PsFmStZbNYtFnVmUy3s32YbFITPiw2PZbePQYBPaQENKLqZbG&amp;mediaDataID=6546596&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aGmTo6REjQQsQOQdBM1tjuWAQO3VYYYFZbLTAXn46ZbdRP7G2HZbp1dvZbnWZaw36U13cr6TcJaUsreRAUoUtMWWbFR2F6sWEjxWaJ6STrLQVJCQFapRd36VcbT2FyxmdZao0aey4WvZaQcrH2m3EpHIOUtZbhXrr8XUBfXquOPbQZbUFBYTtUWnUQsQFbr1TUn3TZbl2a31mEZbHXrJ6TtrSm6fBpG7wosZbCQtQ0xCSyea&amp;mediaDataID=6530936&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aHmTo6RUMNYT3r4qJe5qrRnqrH1bJ9TWMPmm3Kns7rmtrF3TZbj2HIp5mfZdprnG0VnPYcF5XVnxnEf43FMVTUJZaV630PTbSPVZboSt7xYt7uWPvO2sr0YbZbIVmmw4PrbRmMF4dQy0tBLpdIn4AQ04VngTsU7VcbePAJmWd33UbM05bAuVTjqTaU9ParIQVJJRrEmRWQ9VVvV5remmHqO0qep2VBE3rftnFcfHs&amp;mediaDataID=6807466&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aImTo6TTBlQE3IQGZbKPUivSd3kVGrP5U6pmWAqXEey4WvDQVrA5AnKoWIrVWFf0rnaYUYgXqytRrYZbUFvYTdnUnUjrPrryXqFp3T7g2avRmTrEYUj6TtMSoArBnGYtmWfG5qQ83Wmr3AjFmUrHYcr0YsY01G7xpEr25U32VUnEUAMTQab2QcnnQdFuYt7pT6Yw2cn0YUQKUAan4mZbeR6MK2cfqVa3xN7ZcOs9&amp;mediaDataID=6347136&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aJmTo6ScFMQdBt1tZbwTPnp3snWYrrJU6io46v9PPMF4dQp0HBZamWaO5PQP3sveVsQdWcMhPAZbuUtU3UbF05rawVTQtVTJjPaBKQVbZaRr6vStraUcUS5r6modeOXqPN4tbASsfZd4PJZamdZaOUtBeYFrkYFFl1aitPrFZdWUYSVdJ3orZbxQrroXano4a3f2avYoTBBYbbcTH7Qnm7Knc7wmHfJ3rfgQEiFxuvdjZa&amp;mediaDataID=7665496&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aKmTo61EZby5EFf4q3PmqfI1bBcTHjTnPfJnsUnotfG5qQj3dmo4mBLnFrZb0GMX1s320GvupEnT3FU2VUJEUPYVQaY5PVZbOPHUwYtZbsT6Mp3GMVXrYAUAin2PQeP6FH4HZbmXd3DnH2v36U04VMfUGUjWs7kSP3uWtJ5WrbP3r2oUqnvWqJjQEMGQcFZdRr6oPH3bWGUP5FyonWyqXTep4dbZdQtQHRDUyOJZcLCa&amp;mediaDataID=9148826&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=aLmTo6STJFSGFAPrIpSdriUcMR5ruqntqtXE2u2WbASsfA46JLpW6nTdB90bMi1FBf0aqqPrBHUFQSVdn3obfvQrJmXTFN4aUh2aU2oTbIXFF8TtBQnmfKpGMwoHQE5TZbk5HiM56vZbprnHYcvYXGYV0VbMmT7T5FJ4TFfZcWP74REvQPGZbNQHFt0dZbrT6Mu4sM2XFMZaUmmp56F9PAMK4WZbO0cbLMTAJr0VuyK&amp;mediaDataID=8039566&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=ammTo62afRmEjAXb7dWtfXnP3LnGrqpWfB3qvg3Hmn3mbKnbbIYsQWYVU5XGjppE7T3UFUTUvEWPnTPT31SsrOPWfx0WvwWPby4sr10UUDTm2p5mU8QPMB4WQO0WvZbpt2M3P305Vj7Vc3kVGj7SmYoUtYQTrb05rPwUqrvVEJbST3FRsQZaQFeqStr7UVMT2F2omtEmYqqw3WjEQcrZa2mJHoVytXaZbPwxbaLU&amp;mediaDataID=5436426&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=anmTo6RrmvRWMaWGf25bqxnWasYq6O3tbHQsBH4AJImWEmTHQdYUQ9YbJgXa6OPrQHUUB0TdB3mbBxPFZbq1TMN4qfg5a7PnaMH1r7dWHbXmAMZdpVvtptfC5EQ73tIp3PvJpFvHXcfQ1cQU1cfomqb43FYPWFfEUPjVREMQQsZbtStJr0WvtVP3N2sJX0UUIVmPp4AMdQ67D3dFq0tBApd2o5QbRSFnQxHl4fL&amp;mediaDataID=4056396&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+
+
+   </td>
+  </tr>
+</tbody></table>
+
+
+<br>
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tbody><tr> 
+   
+    <td width="180" valign="top">
+
+<table class="body" border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr> 
+          <td colspan="2" class="heading">Search IMSDb</td></tr><tr>
+<form method="post" action="/search.php"></form>
+            <td width="180"> <div align="center">
+                <input type="text" name="search_query" maxlength="255" size="15">
+                <input type="submit" value="Go!" name="submit">
+              </div></td>
+
+</tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td colspan="9" class="heading">Alphabetical
+</td></tr><tr align="center">
+        <td><a href="/alphabetical/0">#</a> 
+        </td><td><a href="/alphabetical/A">A</a>
+        </td><td><a href="/alphabetical/B">B</a>
+        </td><td><a href="/alphabetical/C">C</a>
+        </td><td><a href="/alphabetical/D">D</a>
+        </td><td><a href="/alphabetical/E">E</a>
+        </td><td><a href="/alphabetical/F">F</a>
+        </td><td><a href="/alphabetical/G">G</a>
+        </td><td><a href="/alphabetical/H">H</a></td></tr><tr align="center"> 
+        <td><a href="/alphabetical/I">I</a>
+        </td><td><a href="/alphabetical/J">J</a>
+        </td><td><a href="/alphabetical/K">K</a>
+        </td><td><a href="/alphabetical/L">L</a>
+        </td><td><a href="/alphabetical/M">M</a>
+        </td><td><a href="/alphabetical/N">N</a>
+        </td><td><a href="/alphabetical/O">O</a>
+        </td><td><a href="/alphabetical/P">P</a>
+        </td><td><a href="/alphabetical/Q">Q</a></td></tr><tr align="center"> 
+        <td><a href="/alphabetical/R">R</a>
+        </td><td><a href="/alphabetical/S">S</a>
+        </td><td><a href="/alphabetical/T">T</a>
+        </td><td><a href="/alphabetical/U">U</a>
+        </td><td><a href="/alphabetical/V">V</a>
+        </td><td><a href="/alphabetical/W">W</a>
+        </td><td><a href="/alphabetical/X">X</a>
+        </td><td><a href="/alphabetical/Y">Y</a>
+        </td><td><a href="/alphabetical/Z">Z</a>
+</td></tr></tbody></table>
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">Genre
+</td></tr><tr> 
+	<td><a href="/genre/Action">Action</a>
+	</td><td><a href="/genre/Adventure">Adventure</a>
+	</td><td><a href="/genre/Animation">Animation</a></td></tr><tr>
+	<td><a href="/genre/Comedy">Comedy</a>
+	</td><td><a href="/genre/Crime">Crime</a>
+	</td><td><a href="/genre/Drama">Drama</a></td></tr><tr>
+	<td><a href="/genre/Family">Family</a>
+	</td><td><a href="/genre/Fantasy">Fantasy</a>
+	</td><td><a href="/genre/Film-Noir">Film-Noir</a></td></tr><tr>
+	<td><a href="/genre/Horror">Horror</a>
+	</td><td><a href="/genre/Musical">Musical</a>
+	</td><td><a href="/genre/Mystery">Mystery</a></td></tr><tr>
+	<td><a href="/genre/Romance">Romance</a>
+	</td><td><a href="/genre/Sci-Fi">Sci-Fi</a>
+	</td><td><a href="/genre/Short">Short</a></td></tr><tr>
+	<td><a href="/genre/Thriller">Thriller</a>
+	</td><td><a href="/genre/War">War</a>
+	</td><td><a href="/genre/Western">Western</a>
+</td></tr></tbody></table>
+
+<br>
+<table class="body" border="0" cellspacing="0" cellpadding="2" width="100%">
+<tbody><tr> 
+ <td colspan="2" class="heading">Sponsor</td></tr><tr>
+ <td width="300" bgcolor="#FFFFFF">
+ <script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250";
+ //--></script>
+ <script type="text/javascript" src="//tags.expo9.exponential.com/tags/IMSDb/ROS/tags.js"></script><div align="center" id="richmedia_4"><img width="0" height="0" src="https://tps20513.doubleverify.com/bsevent.gif?impid=8bd4709b9d81471a90e9fb7bfd108033&amp;vfdur=278&amp;cbust=1584737812768956" style="display: none;"><img width="0" height="0" src="https://tps20513.doubleverify.com/bsevent.gif?impid=8bd4709b9d81471a90e9fb7bfd108033&amp;dvp_or2=1&amp;cbust=1584737812767674" style="display: none;"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=imsdb&amp;adSpace=ros&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBack-to-the-Future.html&amp;f=0&amp;p=17733452&amp;tKey=aEmneMnFFnQUJoYqQp3EJjRWMfP4yaIC&amp;a=3&amp;adContainerId=richmedia_4&amp;rnd=17740484"></script><div id="tfac_3002501519598397" style="z-index: 1005000; position: relative; width: 300px;"><script type="text/javascript" src="https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js"></script><div style="text-align: left; height: 15px; left: 281px; overflow: hidden; position: absolute; top: 0px; width: 19px; z-index: 1005000;"><img style="margin:0;position:absolute;left:0px; display:block;" width="19px" height="15px" border="0" src="https://cdnx.tribalfusion.com/media/common//adChoice/icon/ad_choices_i_UR.png" onmouseover="tf_e9AdChoice.expand(this,300,281);"><a href="https://s.tribalfusion.com/j.u?rnd=1519598397&amp;redirect=http://exponential.com/ad-choices-fromad/" target="_blank"><img style="margin:0;position:absolute;display:none;" width="77px" height="15px" border="0" src="https://cdnx.tribalfusion.com/media/common//adChoice/icon/ad_choices_UR.png" onmouseout="tf_e9AdChoice.collapsed(this,300,281);"></a></div></div>
+<script language="javascript" defer="defer">
+  (function() {
+    var 	tf_adchoice_width;
+    var 	tf_adchoice_height;
+
+    if (typeof(e9AdChoice) === "undefined")
+     {
+       tf_adchoice_width = 300;
+       tf_adchoice_height = 250;
+     }
+    else
+     {
+       tf_adchoice_width = e9AdChoice.width;
+       tf_adchoice_height = e9AdChoice.height; 
+       e9AdChoice = undefined;
+     }
+
+    var adChoiceObj = {
+        adWidth			: tf_adchoice_width,
+        adHeight		: tf_adchoice_height,
+        adChoiceIconPos 	: "UR".toLowerCase(),
+        adChoiceIconDir 	: "https://cdnx.tribalfusion.com/media/common//adChoice/icon/",
+        adChoiceOptOutPage 	: "https://s.tribalfusion.com/j.u?rnd=1519598397&redirect=http://exponential.com/ad-choices-fromad/",
+        adChoiceDivId		: "tfac_3002501519598397",
+        adChoiceIconVisibility	: "true",
+        rnd                     : "1519598397"
+    };
+
+    var script = document.createElement('script');
+    script.type = "text/javascript";
+    script.src = "https://cdnx.tribalfusion.com/media/common/adChoice/tf_adChoice11.js";
+
+    if (script.readyState) //IE 
+     { 
+       script.onreadystatechange = function() {
+         if (    script.readyState == "loaded" 
+	      || script.readyState == "complete")
+	  {
+            script.onreadystatechange = null;
+   	    window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+          }
+       };
+     } 
+    else 
+     { 
+       script.onload = function() {
+   	  window.setTimeout(function() {tf_e9AdChoice.showAdChoiceIcon(adChoiceObj)},2000);
+       };
+     }
+
+    document.getElementById(adChoiceObj.adChoiceDivId).appendChild(script);
+  })();
+</script>
+<script type="text/adtag">
+<ins class='dcmads' style='display:inline-block;width:300px;height:250px'
+    data-dcm-placement='N1034274.2106305EXPONENTIAL/B23342467.257982643'
+    data-dcm-rendering-mode='iframe'   
+  data-dcm-click-tracker='https://s.tribalfusion.com/h.click/apmXpmoTrIYbFaTWnQmmMBpVvspHbA2TZbf3HEr5mvJpFvIXVfRYsM00GjpnEvP2UQVTU7ZcVPQ3PTjYScUpQd3xYdrmTmUp4cMUYbZbJTAmw4AZbdQPZbC3dFmXWUZcnHaN4AZbY4VY9UVF7UcjiSmZboTWJVWFfP3U2nUEYnTaMaSTYZcRV7IPbmwPW7aWcv54bXmodeOXEev2HbZbQsFC5mYKmdAtVWj8XrY7XUFg1TysRFJZbWUBSVp2uXAIon7M1qp2bsaQlYEMfDvXXTn/'
+    data-dcm-https-only
+    data-dcm-resettable-device-id=''
+    data-dcm-app-id=''>
+  <script src='https://www.googletagservices.com/dcm/dcmads.js'></scr+ipt>
+</ins>
+</script>
+<iframe name="iframe_950574966484" width="0" height="0" id="iframe_950574966484" src="about:blank" data-dv-frm="950574966484" style="display: none;"></iframe><script language="javascript" type="text/javascript" src="https://cdn.doubleverify.com/dvbs_src.js?ctx=2826712&amp;cmp=23342467&amp;plc=257982643&amp;sid=5130266&amp;dvregion=2&amp;unit=300x250">
+</script><script type="text/javascript" src="https://cdn.doubleverify.com/dvbs_src_internal75.js"></script><script type="text/javascript" src="https://rtb2.doubleverify.com/verify.js?jsCallback=__verify_callback_741597424984&amp;jsTagObjCallback=__tagObject_callback_741597424984&amp;num=6&amp;ctx=2826712&amp;cmp=23342467&amp;plc=257982643&amp;sid=5130266&amp;advid=&amp;adsrv=&amp;unit=300x250&amp;isdvvid=&amp;uid=741597424984&amp;tagtype=&amp;adID=&amp;app=&amp;sup=&amp;isovv=0&amp;gmnpo=&amp;crt=&amp;dup=null&amp;brid=0&amp;brver=&amp;bridua=3&amp;chro=0&amp;hist=2&amp;winh=600&amp;winw=800&amp;wouh=600&amp;wouw=800&amp;scah=600&amp;scaw=800&amp;srcurlD=0&amp;ssl=1&amp;refD=0&amp;htmlmsging=1&amp;aUrlD=&amp;m1=15&amp;noc=4&amp;fcifrms=12&amp;brh=2&amp;fwc=0&amp;fcl=202&amp;flt=0&amp;fec=207&amp;vavbkt=&amp;lvvn=28&amp;dvp_idcerr=undefined&amp;ver=124&amp;eparams=DC4FC%3Dl9EEADTbpTauTauHHH%5D%3A%3ED53%5D4%40%3ETauD4C%3AAEDTauq24%3C%5CE%40%5CE96%5CuFEFC6%5D9E%3E%3DU2%26C%3Dl"></script><script type="text/javascript">e9 = new Object();e9.size = '300x250';</script><script type="text/javascript" src="https://tags.expo9.exponential.com/tags/ContentVerification/AdVerificationBackup_DV/tags.js"></script><div align="center" id="richmedia_6"><script type="text/javascript" src="https://s.tribalfusion.com/j.ad?flashVer=0&amp;ver=1.28&amp;th=8124094969&amp;tagKey=3962000382&amp;site=contentverification&amp;adSpace=adverificationbackup_dv&amp;center=1&amp;size=300x250&amp;env=display&amp;url=https%3A%2F%2Fwww.imsdb.com%2Fscripts%2FBack-to-the-Future.html&amp;f=0&amp;p=17733452&amp;tKey=aEmneMnFFnQUJoYqQp3EJjRWMfP4yaIC&amp;a=5&amp;adContainerId=richmedia_6&amp;rnd=17733959"></script><center>
+<a href="https://s.tribalfusion.com/h.click/a0mUwfpdTo5mYT4VndTG3jVsBiSmJwTtFWUFJS3bAuVTYmWTFbSTnZbRG7ZcPUmvSWv7VcrW2FXnnHItXqev3tMZbPcfC4PrEmdinTt7eXrfa1UB90qqrSFvZcWbr2TtUWmFQpQFBy1EvO5aYj2aMRmqnFYrYaUtMRmmYZbnVvumt7J3EQg5tam5mvZaprvEYcfTYGnU1sFypT7U5UvUVUBBVAM3Qqj0QGZbMStUr1G3p0SvI0CMqqB/http://www.cidi.org/NepalRelief?utm_medium=banner&amp;utm_source=exponential&amp;utm_campaign=adcouncil&amp;utm_content=nepal" target="_blank">
+<img src="https://cdnx.tribalfusion.com/media/5268446/adc_ndr_nepal_300x250.gif" width="300" height="250" border="0"></a>
+</center>
+
+</div>
+
+<iframe src="https://s.tribalfusion.com/p.media?clickID=aqmTo6PHfiWGMV5besot6OXqqy3HUZaPVrE4AMZaoWXpVdZbdXrf8Xb7k0TaqPb3ZdWFYYVtJ4obYnPFbNYTMs3Ejc2T3YmTMKXFUcWHJVoAnBncnpodnA2qZbg5tiN5ABLpbbL0srYYGF3XGjomqf32rY2VUjCVAv4RTfSScUMQdUNYtbuWAbw3sY3YU3ZcVmqn2Pn7PmZbF3WQs1dJLnH2o36BY5HJ7XUUVMf7q1x&amp;mediaDataID=2713736&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=armTo64sJUXFUJUPut56YeQAnH2tnm1HBInWev5PBV3GncTsJ7VVFlR6UwWdQ5Wbb03b2nUabpVEYlQEvZdQGfARFEoSt7kVcbP2FTrodiOYEqM3t3GPsrH2mUHod6nVHQa0UrjYrYeXa6NSFYZcTr3SVdU1nrJnRFvy1E3y5EUk2aMRnqMFXrZbhTHBUoAnKpG3poWYG2EQe2Hur56vGprbEXtZbQUUYjNFs6xC&amp;mediaDataID=6719746&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=asmTo61r3fUWbRmmbZcncrwpdbA3Eng2dms5mZbZbnFbL0srVYsF01sBynafV5UQ4TUfEWA73RTj1Qs3MQdjOYdBwTPYu3VBWYbZbZaVmXq2PUeQP7F4dns1dBLpdAo56vT3cjbVVUkWGMfPPQnTHU4TU7P3rAqVqrpTEFjSTYFSGQIRravSd77VsfT4UPsodiq0qTw2tUAPGfF5ABZaoHXyVWQhXTZbbUcFXO44ZcXc&amp;mediaDataID=6680176&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe><iframe src="https://s.tribalfusion.com/p.media?clickID=atmTo6UVj54UmpndunXayp4WjCPsBE56JZdoWitTdQa0Ur8YFYl1TZamRUYEWUUQTdQ3mrQoRFMqYTUy5Ejk2qYPoaBDXrUhTtMWoA3ZdpGvwptUB2avg2Hmr3AbGnr3J0VfU1VYU0cvwpTj32rU5WbjZcWPMXQEM1SsBOStZbr1dvoT6vp3VBV0brATP2t2PU9R6BD2HMm1W3JmWTv5ABY3sjgTWjc1U7YyaXlWc&amp;mediaDataID=8858276&amp;mediaName=frame.html" width="0" height="0" style="visibility:hidden;position: absolute;top: -15000px;left: -15000px;" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe></div>
+
+ </td>
+</tr></tbody></table>
+
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">TV Transcripts
+</td></tr><tr> 
+	<td><a href="/TV/Futurama.html">Futurama</a></td></tr><tr>
+	<td><a href="/TV/Seinfeld.html">Seinfeld</a></td></tr><tr>
+	<td><a href="/TV/South Park.html">South Park</a></td></tr><tr>
+	<td><a href="/TV/Stargate SG1.html">Stargate SG-1</a></td></tr><tr>
+	<td><a href="/TV/Lost.html">Lost</a></td></tr><tr>
+	<td><a href="/TV/The 4400.html">The 4400</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">International
+</td></tr><tr> 
+	<td><a href="/language/French">French scripts</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">Movie Software
+</td></tr><tr>
+    <td><a href="/out/dvd-ripper"><img src="/images/a/dvd-ripper.jpg" alt="DVD ripper software offer"></a>
+</td></tr><tr>
+	<td><a href="/software/rip-from-dvd">Rip from DVD</a>
+</td></tr><tr>
+	<td><a href="/software/rip-blu-ray">Rip Blu-Ray</a>
+</td></tr></tbody></table>
+
+<br>
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td colspan="3" class="heading">Latest Comments
+</td></tr><tr>
+<td><a href="/Movie Scripts/Star Wars: Revenge of the Sith Script.html">Star Wars: Revenge of the Sith</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Star Wars: The Force Awakens Script.html">Star Wars: The Force Awakens</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Batman Begins Script.html">Batman Begins</a></td><td>9/10</td></tr><tr>
+<td><a href="/Movie Scripts/Collateral Script.html">Collateral</a></td><td>10/10</td></tr><tr>
+<td><a href="/Movie Scripts/Jackie Brown Script.html">Jackie Brown</a></td><td>8/10</td></tr><tr>
+</tr></tbody></table>
+<br>
+
+<table width="100%" border="0" cellpadding="2" cellspacing="0" class="body">
+<tbody><tr>
+<td class="heading">Movie Chat
+</td></tr><tr> 
+<td align="center">
+<script language="Javascript" type="text/javascript" src="https://www.yellbox.com/ybscript_enhanced.js"></script>
+<iframe class="yellbox" frameborder="0" name="ybframe" height="170" marginwidth="0" marginheight="0" src="https://www.yellbox.com/yellbox.php?name=imsdb">
+</iframe>
+<form class="yellbox" action="https://www.yellbox.com/addmessage.php" method="post" target="ybframe" name="yellform"> 
+ <input type="hidden" name="sub_username" value="imsdb">
+ <input class="yellbox" name="sub_name" value="Name" size="21" maxlength="10" onfocus="if(this.value == 'Name')this.value = ''; return;"><br>
+ <textarea class="yellbox" cols="15" rows="4" name="sub_message" wrap="" onfocus="if(this.value == 'Message')this.value = ''; return;">Message</textarea>
+ <table><tbody><tr><td>
+ <button onclick="javascript:makeNewWindow(); return false;"><img src="https://www.yellbox.com/images/smiley.gif" width="16" height="16"></button>
+ </td><td><button type="submit" value="Post" onclick="return clearMessageBox();">Yell !</button></td></tr></tbody></table>
+</form> 
+</td></tr></tbody></table>
+
+
+<div align="center"><br><br>
+      <a href="https://www.imsdb.com/all%20scripts">ALL SCRIPTS</a><br><br>
+</div>
+
+</td><td width="10"></td>
+<td valign="top">
+<br> <table width="100%"><tbody><tr><td class="scrtext">
+
+<pre> 
+
+<title>Back to the Future Script at IMSDb.</title>
+<meta name="description" content="Back to the Future script">
+<meta name="keywords" content="Back to the Future script, Back to the Future movie script, Back to the Future film script">
+<p align="center">
+<iframe width="728" height="90" scrolling="no" src="http://www.imsdb.com/adbanner.html" frameborder="0"></iframe>
+<br><br>
+This script was brought to you by :<br>
+  <a href="http://www.imsdb.com">The Internet Movie Script Database</a><br>
+  www.IMSDb.com
+</p><table width="99%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="120" valign="top">
+
+<iframe marginwidth="0" marginheight="0" src="http://www.filemania.com/ad_sky.html" width="120" height="600" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+</td><td></td><td width="120" valign="top">
+
+<iframe marginwidth="0" marginheight="0" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=8&amp;l=st1&amp;mode=dvd&amp;search=Back to the Future&amp;=1&amp;fc1=&amp;lc1=&amp;lt1=_blank&amp;bg1=FFFFCC&amp;f=ifr" width="120" height="240" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+<br><br><br>
+<center><a href="http://affiliates.art.com/get.art?T=15039263&amp;A=990458&amp;L=8&amp;P=10077095&amp;S=2&amp;Y=0" title="Back to the Future Posters"><img src="http://images.art.com/images/products/small/10077000/10077095.jpg" border="0"><br>Posters</a></center><br><br>
+<iframe marginwidth="0" marginheight="0" src="http://www.filemania.com/ad_sky.html" width="120" height="600" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+</td></tr></tbody></table><br><center><iframe marginwidth="0" marginheight="0" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&amp;o=1&amp;p=9&amp;l=st1&amp;mode=dvd&amp;search=Back to the Future&amp;=1&amp;fc1=&amp;lc1=&amp;lt1=&amp;bg1=&amp;f=ifr" width="180" height="150" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe></center></pre><br>
+<table width="85%" border="0" align="center" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;">
+  <tbody><tr> 
+	<td align="center">
+	</td><td><h1>Back to the Future</h1><br><br>
+	    <b>Writers</b> : &nbsp;&nbsp;<a href="/writer.php?w=Robert Zemeckis" title="Scripts by Robert Zemeckis">Robert Zemeckis</a>&nbsp;&nbsp;<a href="/writer.php?w=Bob Gale" title="Scripts by Bob Gale">Bob Gale</a><br>
+    	<b>Genres</b> : &nbsp;&nbsp;<a href="/genre/Action" title="Action Scripts">Action</a>&nbsp;&nbsp;<a href="/genre/Comedy" title="Comedy Scripts">Comedy</a>&nbsp;&nbsp;<a href="/genre/Family" title="Family Scripts">Family</a>&nbsp;&nbsp;<a href="/genre/Sci-Fi" title="Sci-Fi Scripts">Sci-Fi</a><br><br><br>
+		
+		<a href="/Movie Scripts/Back to the Future Script.html#comments" title="Back to the Future comments">User Comments</a>
+	</td>
+</tr></tbody></table>
+<br><br>
+<div align="center">
+<a href="https://www.imsdb.com" title="Internet Movie Script Database"><img src="/images/lilbutton.gif" style="border: 1px solid black;" alt="Internet Movie Script Database" border="1"><br>
+Back to IMSDb</a>
+</div><br>
+<br><br>
+  </td></tr>
+</tbody></table>
+<br><br>
+</td></tr></tbody></table><iframe id="google_osd_static_frame_6865738691640" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe>
+
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tbody><tr> 
+  <td background="/images/reel.gif" height="13" colspan="2">
+</td></tr></tbody></table>
+
+<div align="center">
+ <a href="https://www.imsdb.com" title="Internet Movie Script Database (IMSDb)">Index</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/submit" title="Submit scripts">Submit</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/links" title="Other sites">Links</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/link to us" title="Link to IMSDb">Link to us</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/feeds" title="IMSDb RSS Feeds">RSS Feeds</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/disclaimer">Disclaimer</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/privacy">Privacy policy</a> 
+</div>
+
+<br>
+
+
+</body></html>
