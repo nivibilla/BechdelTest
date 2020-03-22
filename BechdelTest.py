@@ -13,7 +13,7 @@ def getActionFilmNames():
 	"""
 	This method writes file in 'data' folder in working directory named 'title.txt' which contains the html for the rss
 	feed provided by the website, from which the script url is taken.
-	:return: list of Action Film Names, Creates files in data folder named 'title.txt'
+	:return: list of Action Film Names, e.g.: ['15 Minutes', '48 Hrs.', ...]
 	"""
 
 	# The html file was taken from https://www.imsdb.com/genre/Action
@@ -49,7 +49,7 @@ def getFilmScripts(filmList):
 	"""
 	This method gets the scripts from the imsdb website, and writes it to a file in the data folder.
 	:param filmList: list of film names, either manually given or by the method getActionFilmNames()
-	:return: list of file names for the scripts
+	:return: list of file names for the scripts e.g.: ['15 Minutes Script', '48 Hrs. Script', ...]
 	"""
 	scriptList = []
 	for film in filmList:
@@ -75,10 +75,17 @@ def getFilmScripts(filmList):
 
 
 def generateTestData(scriptList):
-
+	"""
+	This method returns a list of tuples with the first element being the movie name and the second, the list of pairs
+	of character genders to be tested.
+	:param scriptList: List of file names for the scripts as they are stored in the data folder
+	 e.g.: 'Abyss, The Script.txt'
+	:return: List of tuples, containing the name of the movie and the gender pairs.
+	e.g.: ['Abyss, The', ['1,1', '2,1', ...]
+	"""
 	testData = []
 	for script in scriptList:
-		print("Testing movie: " + script)
+		print("Testing movie: " + script.replace("Script", "").strip())
 		with open("./Data/" + script + ".txt") as fp:
 			soup = BeautifulSoup(fp, 'lxml')
 
@@ -153,12 +160,17 @@ def generateTestData(scriptList):
 
 
 def bechdelTest(testData):
+	"""
+	Returns bechdel test results and some statistics for making the bar chart.
+	:param testData: data to test. From the method above.
+	:return: Results with [Movie name, True/False, mmInteractions, ffInteractions, mfInteractions, unknownInteractions]
+	"""
 	results = []
 	test = False
 	for movie in testData:
 		mmInteractions = 0
 		ffInteractions = 0
-		mfInterations = 0
+		mfInteractions = 0
 		unknownInteractions = 0
 		for pair in movie[1]:
 			if pair[0] == "1" and pair[1] == "1":
@@ -166,7 +178,7 @@ def bechdelTest(testData):
 			elif pair[0] == "2" and pair[1] == "2":
 				mmInteractions += 1
 			elif pair[0] == "1" and pair[1] == "2" or pair[0] == "2" and pair[1] == "1":
-				mfInterations += 1
+				mfInteractions += 1
 			else:
 				unknownInteractions += 1
 
@@ -174,37 +186,46 @@ def bechdelTest(testData):
 			test = True
 
 		# Some films have names different to the international standard, hence some movies may not be recognised,
-		if mmInteractions + ffInteractions + mfInterations > 100:
+		if mmInteractions + ffInteractions + mfInteractions > 100:
 			results.append(
-				[movie[0], str(test), mmInteractions, ffInteractions, mfInterations, unknownInteractions])
+				[movie[0], str(test), mmInteractions, ffInteractions, mfInteractions, unknownInteractions])
 
 	return results
 
 
+# Call each method in secession to get test data.
 films = getActionFilmNames()
 filmScripts = getFilmScripts(films)
 data = generateTestData(filmScripts)
 bechdelTestData = bechdelTest(data)
 
+"""
+Create Bar Chart
+"""
+# Set Bar Width
 barWidth = 0.2
 bar1 = []
 bar2 = []
 bar3 = []
 # bar4 = []
 names = []
+# Fill bars with data from test data.
 for film in bechdelTestData:
-	print(film[0] + " Bechdel Test: " + film[1])
+	print(film[0] + " - Bechdel Test: " + film[1])
 	bar1.append(film[2])
 	bar2.append(film[3])
 	bar3.append(film[4])
+	# Unknown Interactions bar omitted as it is usually very big and clouds other data to be seen properly
 	# bar4.append(film[5])
 	names.append(film[0])
 
+# Get values to plot the bars on the x-axis.
 r1 = np.arange(len(bar1))
 r2 = [x + barWidth for x in r1]
 r3 = [x + barWidth for x in r2]
 r4 = [x + barWidth for x in r3]
 
+# make bar chart big enough so that data is visible.
 plot.figure(figsize=(13, 7))
 plot.subplots_adjust(left=0.1, bottom=0.5, right=0.9, top=0.9, wspace=None, hspace=None)
 
@@ -213,9 +234,12 @@ plot.bar(r2, bar2, color='#557f2d', width=barWidth, edgecolor='white', label='Fe
 plot.bar(r3, bar3, color='#2d7f5e', width=barWidth, edgecolor='white', label='Male-Female Interactions')
 # plot.bar(r4, bar4, color='y', width=barWidth, edgecolor='white', label='Unknown Interactions')
 
+# Plot bar chart.
 plot.xlabel('Movie', fontweight='bold')
 plot.xticks([r + barWidth for r in range(len(bar1))], names, rotation='vertical')
 plot.title('Number of Interactions of database recognised Movies')
 plot.legend()
 plot.tight_layout()
+
+# Show Plot. If you want to save the chart, there are options to do so in the gui when the chart is opened.
 plot.show()
